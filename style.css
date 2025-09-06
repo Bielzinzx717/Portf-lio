@@ -1,0 +1,29 @@
+*{
+    background-color: #2d2daf;
+    color: #ffffff;
+}
+
+
+
+
+h1{
+    font-size: 20px;
+    color: #ff0000;
+}
+
+
+
+
+h2{
+    color: #000000;
+}
+
+
+
+
+.foto-redonda {
+  width: 200px;     /* largura da imagem */
+  height: 200px;    /* altura da imagem (igual à largura p/ ficar redonda) */
+  border-radius: 50%; /* deixa a borda circular */
+  object-fit: cover;  /* mantém a proporção e corta excesso */
+}

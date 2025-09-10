@@ -1,0 +1,47 @@
+* {
+    background-color: #2d2daf;
+    color: #ffffff;
+}
+
+
+
+
+nav button {
+    margin: 0px;
+    background-color: #333;
+    color: #ffffff;
+    border: 8px;
+    border-radius: 8px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+
+
+
+nav button:hover {
+    background-color: #555;
+    color: #ff0000;
+}
+
+
+
+
+div button {
+    margin: 5px;
+    background-color: #041c50;
+    color: #ffffff;
+    border: 8px;
+    border-radius: 8px;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+
+
+
+div button:hover {
+    background-color: #0056b3;
+    color: #ff0000;
+}

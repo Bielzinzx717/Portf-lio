@@ -43,6 +43,7 @@ nav button {
 
 nav button:hover {
   background-color: #555;
+  color: #ff0000;
 }
 
 /* Estilo para os botões dentro das divs (fora do nav) */
@@ -56,7 +57,11 @@ div button {
   cursor: pointer;
 }
 
+
+
+
 div button:hover {
   background-color: #0056b3;
+  color: #ff0000;
 }
 
